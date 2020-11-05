@@ -10,7 +10,7 @@ class Mysql_Connection:
         try:
             
             # cnx = pymysql.connect(host="localhost", user='root',passwd="", database='cfd')
-            cnx = pymysql.connect(host="localhost", user='root',passwd="Shalitha@123", database='cfd')
+            cnx = pymysql.connect(host="localhost", user='root',passwd="admin@123", database='cfd')
             
             return  cnx
         except:
