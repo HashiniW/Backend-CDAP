@@ -27,7 +27,7 @@ brinjal_jsonFilePath = 'brinjal.json'
 
 #Create service for read curret updated csv and create json file
 @server.route('/tomatocsv')
-def csv_json():
+def tomato_csv_json():
     #create object to store rows in csv file
     data={}
     #initialize the object index
@@ -51,7 +51,7 @@ def csv_json():
 
 #Create service for read curret updated csv and create json file
 @server.route('/potatocsv')
-def csv_json():
+def potato_csv_json():
     #create object to store rows in csv file
     data={}
     #initialize the object index
@@ -75,7 +75,7 @@ def csv_json():
 
 #Create service for read curret updated csv and create json file
 @server.route('/onioncsv')
-def csv_json():
+def onion_csv_json():
     #create object to store rows in csv file
     data={}
     #initialize the object index
@@ -99,7 +99,7 @@ def csv_json():
 
 #Create service for read curret updated csv and create json file
 @server.route('/cabbagecsv')
-def csv_json():
+def cabbage_csv_json():
     #create object to store rows in csv file
     data={}
     #initialize the object index
@@ -123,7 +123,7 @@ def csv_json():
 
 #Create service for read curret updated csv and create json file
 @server.route('/brinjalcsv')
-def csv_json():
+def brinjal_csv_json():
     #create object to store rows in csv file
     data={}
     #initialize the object index
@@ -147,7 +147,7 @@ def csv_json():
 
 
 #Return Tomato Data
-@server.route('/tomato')
+@server.route('/tomato/<centre_name>/<date>')
 def create_json_obj_tomato():
    resp =  create_json_tomato()
    return json.dumps(resp)
@@ -183,7 +183,7 @@ def create_json_tomato():
     return final_json
 
 #Return Potato Data
-@server.route('/potato')
+@server.route('/potato/<centre_name>/<date>')
 def create_json_obj_potato():
    resp =  create_json_potato()
    return json.dumps(resp)
@@ -216,7 +216,7 @@ def create_json_potato():
     return final_json
 
 #Return Onion Data
-@server.route('/onion')
+@server.route('/onion/<centre_name>/<date>')
 def create_json_obj_onion():
    resp =  create_json_onion()
    return json.dumps(resp)
@@ -249,7 +249,7 @@ def create_json_store3():
     return final_json
 
 #Return Cabbage Data
-@server.route('/cabbage')
+@server.route('/cabbage/<centre_name>/<date>')
 def create_json_obj_cabbage():
    resp =  create_json_cabbage()
    return json.dumps(resp)
@@ -282,7 +282,7 @@ def create_json_cabbage():
     return final_json
 
 #Return Brinjal Data
-@server.route('/brinjal')
+@server.route('/brinjal/<centre_name>/<date>')
 def create_json_obj_brinjal():
    resp =  create_json_brinjal()
    return json.dumps(resp)
