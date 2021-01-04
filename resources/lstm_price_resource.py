@@ -7,33 +7,33 @@ class Predict(Resource):
         data = request.get_json()
        # print(data['Date'])
         #print('lstm')
-        prediction = LstmModel().get_tomato_prediction(data["centre_name"], data["date"])
+        prediction = LstmModel().get_tomato_prediction(data["date"], data["centre_name"])
         return prediction
 
     def get_potato(self):
         data = request.get_json()
        # print(data['Date'])
         #print('lstm')
-        prediction = LstmModel().get_potato_prediction(data["centre_name"], data["date"])
+        prediction = LstmModel().get_potato_prediction(data["date"], data["centre_name"])
         return prediction
 
     def get_onion(self):
         data = request.get_json()
        # print(data['Date'])
         #print('lstm')
-        prediction = LstmModel().get_onion_prediction(data["centre_name"], data["date"])
+        prediction = LstmModel().get_onion_prediction(data["date"], data["centre_name"])
         return prediction
 
     def get_cabbage(self):
         data = request.get_json()
        # print(data['Date'])
         #print('lstm')
-        prediction = LstmModel().get_cabbage_prediction(data["centre_name"], data["date"])
+        prediction = LstmModel().get_cabbage_prediction(data["date"], data["centre_name"])
         return prediction
 
     def get_brinjal(self):
         data = request.get_json()
        # print(data['Date'])
         #print('lstm')
-        prediction = LstmModel().get_brinjal_prediction(data["centre_name"], data["date"])
+        prediction = LstmModel().get_brinjal_prediction(data["date"], data["centre_name"])
         return prediction

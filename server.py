@@ -147,7 +147,7 @@ def brinjal_csv_json():
 
 
 #Return Tomato Data
-@server.route('/tomato/<centre_name>/<date>')
+@server.route('/tomato/<date>/<centre_name>')
 def create_json_obj_tomato():
    resp =  create_json_tomato()
    return json.dumps(resp)
@@ -183,7 +183,7 @@ def create_json_tomato():
     return final_json
 
 #Return Potato Data
-@server.route('/potato/<centre_name>/<date>')
+@server.route('/potato/<date>/<centre_name>')
 def create_json_obj_potato():
    resp =  create_json_potato()
    return json.dumps(resp)
@@ -216,7 +216,7 @@ def create_json_potato():
     return final_json
 
 #Return Onion Data
-@server.route('/onion/<centre_name>/<date>')
+@server.route('/onion/<date>/<centre_name>')
 def create_json_obj_onion():
    resp =  create_json_onion()
    return json.dumps(resp)
@@ -249,7 +249,7 @@ def create_json_store3():
     return final_json
 
 #Return Cabbage Data
-@server.route('/cabbage/<centre_name>/<date>')
+@server.route('/cabbage/<date>/<centre_name>')
 def create_json_obj_cabbage():
    resp =  create_json_cabbage()
    return json.dumps(resp)
@@ -282,7 +282,7 @@ def create_json_cabbage():
     return final_json
 
 #Return Brinjal Data
-@server.route('/brinjal/<centre_name>/<date>')
+@server.route('/brinjal/<date>/<centre_name>')
 def create_json_obj_brinjal():
    resp =  create_json_brinjal()
    return json.dumps(resp)

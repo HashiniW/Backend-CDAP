@@ -11,37 +11,37 @@ from flask import jsonify
 
 class LstmModel:
 
-    def get_tomato_prediction(self, centre_name, date):
+    def get_tomato_prediction(self, date, centre_name):
         data = pd.read_csv('lstm_price_prediction_tomato.csv')
         # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['centre_name'] == centre_name) & (data['date'] == date), 'predicted_retail_price'].values[0]}
+            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
         return jsonify(result)
 
-    def get_potato_prediction(self, centre_name, date):
+    def get_potato_prediction(self, date, centre_name):
         data = pd.read_csv('lstm_price_prediction_potato.csv')
         # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['centre_name'] == centre_name) & (data['date'] == date), 'predicted_retail_price'].values[0]}
+            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
         return jsonify(result)
 
-    def get_onion_prediction(self, centre_name, date):
+    def get_onion_prediction(self, date, centre_name):
         data = pd.read_csv('lstm_price_prediction_onion.csv')
         # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['centre_name'] == centre_name) & (data['date'] == date), 'predicted_retail_price'].values[0]}
+            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
         return jsonify(result)
 
-    def get_cabbage_prediction(self, centre_name, date):
+    def get_cabbage_prediction(self, date, centre_name):
         data = pd.read_csv('lstm_price_prediction_cabbage.csv')
         # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['centre_name'] == centre_name) & (data['date'] == date), 'predicted_retail_price'].values[0]}
+            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
         return jsonify(result)
 
-    def get_brinjal_prediction(self, centre_name, date):
+    def get_brinjal_prediction(self, date, centre_name):
         data = pd.read_csv('lstm_price_prediction_brinjal.csv')
         # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['centre_name'] == centre_name) & (data['date'] == date), 'predicted_retail_price'].values[0]}
+            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
         return jsonify(result)
