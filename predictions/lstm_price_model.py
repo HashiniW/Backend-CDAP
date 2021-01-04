@@ -11,37 +11,37 @@ from flask import jsonify
 
 class LstmModel:
 
-    def get_tomato_prediction(self, date, centre_name):
-        data = pd.read_csv('lstm_price_prediction_tomato.csv')
-        # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
+    def get_tomato_prediction(self, Date, Centre_Name):
+        Data = pd.read_csv('lstm_price_prediction_tomato.csv')
+        # result = Data.loc[(Data['Centre_Name'] == Centre_Name & (Data['Date'] == Date), 'Predicted_Retail_Price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
+            'Predicted_Retail_Price': Data.loc[(Data['Date'] == Date) & (Data['Centre_Name'] == Centre_Name), 'Predicted_Retail_Price'].values[0]}
         return jsonify(result)
 
-    def get_potato_prediction(self, date, centre_name):
-        data = pd.read_csv('lstm_price_prediction_potato.csv')
-        # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
+    def get_potato_prediction(self, Date, Centre_Name):
+        Data = pd.read_csv('lstm_price_prediction_potato.csv')
+        # result = Data.loc[(Data['Centre_Name'] == Centre_Name & (Data['Date'] == Date), 'Predicted_Retail_Price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
+            'Predicted_Retail_Price': Data.loc[(Data['Date'] == Date) & (Data['Centre_Name'] == Centre_Name), 'Predicted_Retail_Price'].values[0]}
         return jsonify(result)
 
-    def get_onion_prediction(self, date, centre_name):
-        data = pd.read_csv('lstm_price_prediction_onion.csv')
-        # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
+    def get_onion_prediction(self, Date, Centre_Name):
+        Data = pd.read_csv('lstm_price_prediction_onion.csv')
+        # result = Data.loc[(Data['Centre_Name'] == Centre_Name & (Data['Date'] == Date), 'Predicted_Retail_Price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
+            'Predicted_Retail_Price': Data.loc[(Data['Date'] == Date) & (Data['Centre_Name'] == Centre_Name), 'Predicted_Retail_Price'].values[0]}
         return jsonify(result)
 
-    def get_cabbage_prediction(self, date, centre_name):
-        data = pd.read_csv('lstm_price_prediction_cabbage.csv')
-        # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
+    def get_cabbage_prediction(self, Date, Centre_Name):
+        Data = pd.read_csv('lstm_price_prediction_cabbage.csv')
+        # result = Data.loc[(Data['Centre_Name'] == Centre_Name & (Data['Date'] == Date), 'Predicted_Retail_Price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
+            'Predicted_Retail_Price': Data.loc[(Data['Date'] == Date) & (Data['Centre_Name'] == Centre_Name), 'Predicted_Retail_Price'].values[0]}
         return jsonify(result)
 
-    def get_brinjal_prediction(self, date, centre_name):
-        data = pd.read_csv('lstm_price_prediction_brinjal.csv')
-        # result = data.loc[(data['centre_name'] == centre_name & (data['date'] == date), 'predicted_retail_price'].values
+    def get_brinjal_prediction(self, Date, Centre_Name):
+        Data = pd.read_csv('lstm_price_prediction_brinjal.csv')
+        # result = Data.loc[(Data['Centre_Name'] == Centre_Name & (Data['Date'] == Date), 'Predicted_Retail_Price'].values
         result = {
-            'predicted_retail_price': data.loc[(data['date'] == date) & (data['centre_name'] == centre_name), 'predicted_retail_price'].values[0]}
+            'Predicted_Retail_Price': Data.loc[(Data['Date'] == Date) & (Data['Centre_Name'] == Centre_Name), 'Predicted_Retail_Price'].values[0]}
         return jsonify(result)
