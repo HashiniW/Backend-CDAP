@@ -166,8 +166,8 @@ def create_json_tomato():
         #read each object in JSON file
         json_obj = tomato[str(i)]
         #Filter data for tomato and select records for centre Pettah, Dambulla, Jaffna
-        if json_obj["Commodity_Name"] == "tomato" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
-            json_obj["Commodity_Name"] = 'tomato'
+        if json_obj["Commodity_Name"] == "Tomato" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'Tomato'
 
             #Modify centre names
             if json_obj["Centre_Name"] == "DELHI":
@@ -200,8 +200,8 @@ def create_json_potato():
     #create JSON object for each record
     for i in range(len(potato)):
         json_obj = potato[str(i)]
-        if json_obj["Commodity_Name"] == "potato" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
-            json_obj["Commodity_Name"] = 'potato'
+        if json_obj["Commodity_Name"] == "Potato" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'Potato'
 
             #Modify centre names
             if json_obj["Centre_Name"] == "DELHI":
@@ -233,8 +233,8 @@ def create_json_store3():
     #create JSON object for each record
     for i in range(len(onion)):
         json_obj = onion[str(i)]
-        if json_obj["Commodity_Name"] == "onion" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
-            json_obj["Commodity_Name"] = 'onion'
+        if json_obj["Commodity_Name"] == "Onion" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'Onion'
 
             #Modify centre names
             if json_obj["Centre_Name"] == "DELHI":
@@ -266,8 +266,8 @@ def create_json_cabbage():
     #create JSON object for each record
     for i in range(len(cabbage)):
         json_obj = cabbage[str(i)]
-        if json_obj["Commodity_Name"] == "cabbage" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
-            json_obj["Commodity_Name"] = 'cabbage'
+        if json_obj["Commodity_Name"] == "Cabbage" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'Cabbage'
 
             #Modify centre names
             if json_obj["Centre_Name"] == "DELHI":
@@ -299,8 +299,8 @@ def create_json_brinjal():
     #create JSON object for each record
     for i in range(len(brinjal)):
         json_obj = brinjal[str(i)]
-        if json_obj["Commodity_Name"] == "brinjal" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
-            json_obj["Commodity_Name"] = 'brinjal'
+        if json_obj["Commodity_Name"] == "Brinjal" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'Brinjal'
             
             #Modify centre names
             if json_obj["Centre_Name"] == "DELHI":
