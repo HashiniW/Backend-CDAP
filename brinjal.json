@@ -1,0 +1,7520 @@
+{
+    "0": {
+        "\ufeffDate": "2001-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1": {
+        "\ufeffDate": "2001-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "2": {
+        "\ufeffDate": "2001-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "3": {
+        "\ufeffDate": "2001-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "4": {
+        "\ufeffDate": "2001-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "5": {
+        "\ufeffDate": "2001-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "6": {
+        "\ufeffDate": "2001-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "7": {
+        "\ufeffDate": "2001-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "8": {
+        "\ufeffDate": "2001-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "9": {
+        "\ufeffDate": "2001-02-10",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "10": {
+        "\ufeffDate": "2001-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "11": {
+        "\ufeffDate": "2001-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "12": {
+        "\ufeffDate": "2001-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "13": {
+        "\ufeffDate": "2001-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "14": {
+        "\ufeffDate": "2001-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "15": {
+        "\ufeffDate": "2001-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "16": {
+        "\ufeffDate": "2001-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "17": {
+        "\ufeffDate": "2001-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "39"
+    },
+    "18": {
+        "\ufeffDate": "2001-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "19": {
+        "\ufeffDate": "2001-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "20": {
+        "\ufeffDate": "2001-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "21": {
+        "\ufeffDate": "2001-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "22": {
+        "\ufeffDate": "2001-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "11"
+    },
+    "23": {
+        "\ufeffDate": "2001-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "24": {
+        "\ufeffDate": "2001-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "25": {
+        "\ufeffDate": "2001-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "26": {
+        "\ufeffDate": "2001-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "27": {
+        "\ufeffDate": "2001-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "28": {
+        "\ufeffDate": "2001-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "29": {
+        "\ufeffDate": "2001-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "30": {
+        "\ufeffDate": "2001-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "31": {
+        "\ufeffDate": "2001-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "32": {
+        "\ufeffDate": "2001-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "33": {
+        "\ufeffDate": "2001-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "34": {
+        "\ufeffDate": "2001-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "35": {
+        "\ufeffDate": "2001-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "36": {
+        "\ufeffDate": "2001-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "37": {
+        "\ufeffDate": "2001-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "38": {
+        "\ufeffDate": "2001-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "44"
+    },
+    "39": {
+        "\ufeffDate": "2001-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "40": {
+        "\ufeffDate": "2001-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "41": {
+        "\ufeffDate": "2001-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "42": {
+        "\ufeffDate": "2001-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "43": {
+        "\ufeffDate": "2001-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "44": {
+        "\ufeffDate": "2001-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "45": {
+        "\ufeffDate": "2001-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "46": {
+        "\ufeffDate": "2001-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "47": {
+        "\ufeffDate": "2001-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "48": {
+        "\ufeffDate": "2001-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "49": {
+        "\ufeffDate": "2001-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "50": {
+        "\ufeffDate": "2001-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "51": {
+        "\ufeffDate": "2001-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "12"
+    },
+    "52": {
+        "\ufeffDate": "2001-08-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "53": {
+        "\ufeffDate": "2001-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "54": {
+        "\ufeffDate": "2001-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "55": {
+        "\ufeffDate": "2001-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "56": {
+        "\ufeffDate": "2001-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "57": {
+        "\ufeffDate": "2001-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "58": {
+        "\ufeffDate": "2001-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "59": {
+        "\ufeffDate": "2001-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "60": {
+        "\ufeffDate": "2001-10-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "61": {
+        "\ufeffDate": "2001-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "62": {
+        "\ufeffDate": "2001-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "63": {
+        "\ufeffDate": "2001-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "64": {
+        "\ufeffDate": "2001-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "65": {
+        "\ufeffDate": "2001-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "66": {
+        "\ufeffDate": "2001-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "67": {
+        "\ufeffDate": "2001-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "68": {
+        "\ufeffDate": "2001-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "69": {
+        "\ufeffDate": "2001-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "70": {
+        "\ufeffDate": "2001-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "71": {
+        "\ufeffDate": "2001-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "72": {
+        "\ufeffDate": "2001-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "73": {
+        "\ufeffDate": "2001-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "74": {
+        "\ufeffDate": "2001-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "75": {
+        "\ufeffDate": "2001-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "76": {
+        "\ufeffDate": "2001-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "77": {
+        "\ufeffDate": "2001-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "78": {
+        "\ufeffDate": "2001-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "79": {
+        "\ufeffDate": "2001-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "80": {
+        "\ufeffDate": "2001-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "81": {
+        "\ufeffDate": "2001-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "82": {
+        "\ufeffDate": "2001-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "83": {
+        "\ufeffDate": "2001-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "84": {
+        "\ufeffDate": "2002-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "85": {
+        "\ufeffDate": "2002-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "86": {
+        "\ufeffDate": "2002-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "87": {
+        "\ufeffDate": "2002-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "88": {
+        "\ufeffDate": "2002-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "89": {
+        "\ufeffDate": "2002-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "90": {
+        "\ufeffDate": "2002-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "91": {
+        "\ufeffDate": "2002-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "92": {
+        "\ufeffDate": "2002-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "93": {
+        "\ufeffDate": "2002-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "94": {
+        "\ufeffDate": "2002-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "95": {
+        "\ufeffDate": "2002-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "96": {
+        "\ufeffDate": "2002-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "97": {
+        "\ufeffDate": "2002-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "98": {
+        "\ufeffDate": "2002-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "99": {
+        "\ufeffDate": "2002-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "100": {
+        "\ufeffDate": "2002-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "101": {
+        "\ufeffDate": "2002-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "102": {
+        "\ufeffDate": "2002-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "103": {
+        "\ufeffDate": "2002-03-10",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "104": {
+        "\ufeffDate": "2002-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "44"
+    },
+    "105": {
+        "\ufeffDate": "2002-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "106": {
+        "\ufeffDate": "2002-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "11"
+    },
+    "107": {
+        "\ufeffDate": "2002-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "108": {
+        "\ufeffDate": "2002-04-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "109": {
+        "\ufeffDate": "2002-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "110": {
+        "\ufeffDate": "2002-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "111": {
+        "\ufeffDate": "2002-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "112": {
+        "\ufeffDate": "2002-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "113": {
+        "\ufeffDate": "2002-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "114": {
+        "\ufeffDate": "2002-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "115": {
+        "\ufeffDate": "2002-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "116": {
+        "\ufeffDate": "2002-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "117": {
+        "\ufeffDate": "2002-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "118": {
+        "\ufeffDate": "2002-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "119": {
+        "\ufeffDate": "2002-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "120": {
+        "\ufeffDate": "2002-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "121": {
+        "\ufeffDate": "2002-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "122": {
+        "\ufeffDate": "2002-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "123": {
+        "\ufeffDate": "2002-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "124": {
+        "\ufeffDate": "2002-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "125": {
+        "\ufeffDate": "2002-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "126": {
+        "\ufeffDate": "2002-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "127": {
+        "\ufeffDate": "2002-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "128": {
+        "\ufeffDate": "2002-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "129": {
+        "\ufeffDate": "2002-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "130": {
+        "\ufeffDate": "2002-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "131": {
+        "\ufeffDate": "2002-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "132": {
+        "\ufeffDate": "2002-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "133": {
+        "\ufeffDate": "2002-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "134": {
+        "\ufeffDate": "2002-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "135": {
+        "\ufeffDate": "2002-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "136": {
+        "\ufeffDate": "2002-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "137": {
+        "\ufeffDate": "2002-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "12"
+    },
+    "138": {
+        "\ufeffDate": "2002-08-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "139": {
+        "\ufeffDate": "2002-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "140": {
+        "\ufeffDate": "2002-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "141": {
+        "\ufeffDate": "2002-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "142": {
+        "\ufeffDate": "2002-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "143": {
+        "\ufeffDate": "2002-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "144": {
+        "\ufeffDate": "2002-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "145": {
+        "\ufeffDate": "2002-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "146": {
+        "\ufeffDate": "2002-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "147": {
+        "\ufeffDate": "2002-09-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "148": {
+        "\ufeffDate": "2002-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "149": {
+        "\ufeffDate": "2002-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "150": {
+        "\ufeffDate": "2002-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "151": {
+        "\ufeffDate": "2002-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "152": {
+        "\ufeffDate": "2002-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "153": {
+        "\ufeffDate": "2002-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "154": {
+        "\ufeffDate": "2002-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "155": {
+        "\ufeffDate": "2002-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "156": {
+        "\ufeffDate": "2002-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "157": {
+        "\ufeffDate": "2002-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "158": {
+        "\ufeffDate": "2002-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "159": {
+        "\ufeffDate": "2002-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "160": {
+        "\ufeffDate": "2002-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "161": {
+        "\ufeffDate": "2002-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "162": {
+        "\ufeffDate": "2002-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "163": {
+        "\ufeffDate": "2003-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "164": {
+        "\ufeffDate": "2003-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "165": {
+        "\ufeffDate": "2003-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "166": {
+        "\ufeffDate": "2003-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "167": {
+        "\ufeffDate": "2003-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "168": {
+        "\ufeffDate": "2003-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "169": {
+        "\ufeffDate": "2003-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "170": {
+        "\ufeffDate": "2003-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "171": {
+        "\ufeffDate": "2003-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "172": {
+        "\ufeffDate": "2003-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "173": {
+        "\ufeffDate": "2003-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "174": {
+        "\ufeffDate": "2003-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "175": {
+        "\ufeffDate": "2003-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "176": {
+        "\ufeffDate": "2003-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "177": {
+        "\ufeffDate": "2003-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "178": {
+        "\ufeffDate": "2003-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "179": {
+        "\ufeffDate": "2003-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "180": {
+        "\ufeffDate": "2003-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "181": {
+        "\ufeffDate": "2003-03-10",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "182": {
+        "\ufeffDate": "2003-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "183": {
+        "\ufeffDate": "2003-04-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "184": {
+        "\ufeffDate": "2003-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "185": {
+        "\ufeffDate": "2003-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "186": {
+        "\ufeffDate": "2003-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "187": {
+        "\ufeffDate": "2003-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "188": {
+        "\ufeffDate": "2003-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "189": {
+        "\ufeffDate": "2003-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "190": {
+        "\ufeffDate": "2003-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "191": {
+        "\ufeffDate": "2003-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "49"
+    },
+    "192": {
+        "\ufeffDate": "2003-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "193": {
+        "\ufeffDate": "2003-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "194": {
+        "\ufeffDate": "2003-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "195": {
+        "\ufeffDate": "2003-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "196": {
+        "\ufeffDate": "2003-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "197": {
+        "\ufeffDate": "2003-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "198": {
+        "\ufeffDate": "2003-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "199": {
+        "\ufeffDate": "2003-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "200": {
+        "\ufeffDate": "2003-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "201": {
+        "\ufeffDate": "2003-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "202": {
+        "\ufeffDate": "2003-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "203": {
+        "\ufeffDate": "2003-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "204": {
+        "\ufeffDate": "2003-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "205": {
+        "\ufeffDate": "2003-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "206": {
+        "\ufeffDate": "2003-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "207": {
+        "\ufeffDate": "2003-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "208": {
+        "\ufeffDate": "2003-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "209": {
+        "\ufeffDate": "2003-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "210": {
+        "\ufeffDate": "2003-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "211": {
+        "\ufeffDate": "2003-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "212": {
+        "\ufeffDate": "2003-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "213": {
+        "\ufeffDate": "2003-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "214": {
+        "\ufeffDate": "2003-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "215": {
+        "\ufeffDate": "2003-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "216": {
+        "\ufeffDate": "2003-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "217": {
+        "\ufeffDate": "2003-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "12"
+    },
+    "218": {
+        "\ufeffDate": "2003-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "219": {
+        "\ufeffDate": "2003-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "220": {
+        "\ufeffDate": "2003-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "221": {
+        "\ufeffDate": "2003-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "222": {
+        "\ufeffDate": "2003-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "223": {
+        "\ufeffDate": "2003-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "224": {
+        "\ufeffDate": "2003-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "225": {
+        "\ufeffDate": "2003-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "226": {
+        "\ufeffDate": "2003-09-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "227": {
+        "\ufeffDate": "2003-10-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "228": {
+        "\ufeffDate": "2003-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "229": {
+        "\ufeffDate": "2003-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "230": {
+        "\ufeffDate": "2003-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "231": {
+        "\ufeffDate": "2003-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "232": {
+        "\ufeffDate": "2003-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "233": {
+        "\ufeffDate": "2003-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "234": {
+        "\ufeffDate": "2003-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "235": {
+        "\ufeffDate": "2003-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "236": {
+        "\ufeffDate": "2003-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "237": {
+        "\ufeffDate": "2003-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "238": {
+        "\ufeffDate": "2003-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "239": {
+        "\ufeffDate": "2003-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "240": {
+        "\ufeffDate": "2003-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "241": {
+        "\ufeffDate": "2003-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "242": {
+        "\ufeffDate": "2003-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "243": {
+        "\ufeffDate": "2003-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "244": {
+        "\ufeffDate": "2003-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "245": {
+        "\ufeffDate": "2003-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "246": {
+        "\ufeffDate": "2003-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "247": {
+        "\ufeffDate": "2003-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "248": {
+        "\ufeffDate": "2003-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "249": {
+        "\ufeffDate": "2003-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "250": {
+        "\ufeffDate": "2003-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "251": {
+        "\ufeffDate": "2003-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "252": {
+        "\ufeffDate": "2003-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "253": {
+        "\ufeffDate": "2003-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "254": {
+        "\ufeffDate": "2004-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "255": {
+        "\ufeffDate": "2004-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "256": {
+        "\ufeffDate": "2004-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "257": {
+        "\ufeffDate": "2004-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "258": {
+        "\ufeffDate": "2004-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "259": {
+        "\ufeffDate": "2004-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "260": {
+        "\ufeffDate": "2004-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "261": {
+        "\ufeffDate": "2004-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "262": {
+        "\ufeffDate": "2004-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "263": {
+        "\ufeffDate": "2004-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "264": {
+        "\ufeffDate": "2004-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "265": {
+        "\ufeffDate": "2004-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "266": {
+        "\ufeffDate": "2004-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "267": {
+        "\ufeffDate": "2004-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "268": {
+        "\ufeffDate": "2004-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "269": {
+        "\ufeffDate": "2004-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "270": {
+        "\ufeffDate": "2004-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "271": {
+        "\ufeffDate": "2004-03-10",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "272": {
+        "\ufeffDate": "2004-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "273": {
+        "\ufeffDate": "2004-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "274": {
+        "\ufeffDate": "2004-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "275": {
+        "\ufeffDate": "2004-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "276": {
+        "\ufeffDate": "2004-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "277": {
+        "\ufeffDate": "2004-04-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "278": {
+        "\ufeffDate": "2004-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "279": {
+        "\ufeffDate": "2004-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "280": {
+        "\ufeffDate": "2004-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "281": {
+        "\ufeffDate": "2004-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "282": {
+        "\ufeffDate": "2004-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "283": {
+        "\ufeffDate": "2004-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "284": {
+        "\ufeffDate": "2004-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "285": {
+        "\ufeffDate": "2004-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "286": {
+        "\ufeffDate": "2004-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "287": {
+        "\ufeffDate": "2004-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "49"
+    },
+    "288": {
+        "\ufeffDate": "2004-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "289": {
+        "\ufeffDate": "2004-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "290": {
+        "\ufeffDate": "2004-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "291": {
+        "\ufeffDate": "2004-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "292": {
+        "\ufeffDate": "2004-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "293": {
+        "\ufeffDate": "2004-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "294": {
+        "\ufeffDate": "2004-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "295": {
+        "\ufeffDate": "2004-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "296": {
+        "\ufeffDate": "2004-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "297": {
+        "\ufeffDate": "2004-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "298": {
+        "\ufeffDate": "2004-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "299": {
+        "\ufeffDate": "2004-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "300": {
+        "\ufeffDate": "2004-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "301": {
+        "\ufeffDate": "2004-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "302": {
+        "\ufeffDate": "2004-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "303": {
+        "\ufeffDate": "2004-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "304": {
+        "\ufeffDate": "2004-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "305": {
+        "\ufeffDate": "2004-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "306": {
+        "\ufeffDate": "2004-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "307": {
+        "\ufeffDate": "2004-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "308": {
+        "\ufeffDate": "2004-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "309": {
+        "\ufeffDate": "2004-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "310": {
+        "\ufeffDate": "2004-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "311": {
+        "\ufeffDate": "2004-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "312": {
+        "\ufeffDate": "2004-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "313": {
+        "\ufeffDate": "2004-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "314": {
+        "\ufeffDate": "2004-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "315": {
+        "\ufeffDate": "2004-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "53"
+    },
+    "316": {
+        "\ufeffDate": "2004-09-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "317": {
+        "\ufeffDate": "2004-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "318": {
+        "\ufeffDate": "2004-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "319": {
+        "\ufeffDate": "2004-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "320": {
+        "\ufeffDate": "2004-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "321": {
+        "\ufeffDate": "2004-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "322": {
+        "\ufeffDate": "2004-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "323": {
+        "\ufeffDate": "2004-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "324": {
+        "\ufeffDate": "2004-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "325": {
+        "\ufeffDate": "2004-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "326": {
+        "\ufeffDate": "2004-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "327": {
+        "\ufeffDate": "2004-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "328": {
+        "\ufeffDate": "2004-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "329": {
+        "\ufeffDate": "2004-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "330": {
+        "\ufeffDate": "2004-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "331": {
+        "\ufeffDate": "2004-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "332": {
+        "\ufeffDate": "2004-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "333": {
+        "\ufeffDate": "2004-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "334": {
+        "\ufeffDate": "2004-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "335": {
+        "\ufeffDate": "2004-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "336": {
+        "\ufeffDate": "2004-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "337": {
+        "\ufeffDate": "2004-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "338": {
+        "\ufeffDate": "2004-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "339": {
+        "\ufeffDate": "2004-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "340": {
+        "\ufeffDate": "2005-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "341": {
+        "\ufeffDate": "2005-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "342": {
+        "\ufeffDate": "2005-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "343": {
+        "\ufeffDate": "2005-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "344": {
+        "\ufeffDate": "2005-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "345": {
+        "\ufeffDate": "2005-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "346": {
+        "\ufeffDate": "2005-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "347": {
+        "\ufeffDate": "2005-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "348": {
+        "\ufeffDate": "2005-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "349": {
+        "\ufeffDate": "2005-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "350": {
+        "\ufeffDate": "2005-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "351": {
+        "\ufeffDate": "2005-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "352": {
+        "\ufeffDate": "2005-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "353": {
+        "\ufeffDate": "2005-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "354": {
+        "\ufeffDate": "2005-03-10",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "355": {
+        "\ufeffDate": "2005-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "47"
+    },
+    "356": {
+        "\ufeffDate": "2005-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "357": {
+        "\ufeffDate": "2005-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "358": {
+        "\ufeffDate": "2005-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "359": {
+        "\ufeffDate": "2005-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "360": {
+        "\ufeffDate": "2005-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "361": {
+        "\ufeffDate": "2005-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "362": {
+        "\ufeffDate": "2005-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "363": {
+        "\ufeffDate": "2005-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "364": {
+        "\ufeffDate": "2005-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "365": {
+        "\ufeffDate": "2005-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "366": {
+        "\ufeffDate": "2005-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "367": {
+        "\ufeffDate": "2005-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "368": {
+        "\ufeffDate": "2005-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "369": {
+        "\ufeffDate": "2005-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "370": {
+        "\ufeffDate": "2005-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "371": {
+        "\ufeffDate": "2005-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "372": {
+        "\ufeffDate": "2005-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "373": {
+        "\ufeffDate": "2005-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "374": {
+        "\ufeffDate": "2005-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "375": {
+        "\ufeffDate": "2005-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "376": {
+        "\ufeffDate": "2005-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "377": {
+        "\ufeffDate": "2005-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "378": {
+        "\ufeffDate": "2005-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "379": {
+        "\ufeffDate": "2005-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "380": {
+        "\ufeffDate": "2005-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "381": {
+        "\ufeffDate": "2005-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "382": {
+        "\ufeffDate": "2005-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "383": {
+        "\ufeffDate": "2005-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "384": {
+        "\ufeffDate": "2005-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "385": {
+        "\ufeffDate": "2005-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "386": {
+        "\ufeffDate": "2005-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "387": {
+        "\ufeffDate": "2005-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "388": {
+        "\ufeffDate": "2005-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "389": {
+        "\ufeffDate": "2005-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "390": {
+        "\ufeffDate": "2005-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "391": {
+        "\ufeffDate": "2005-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "392": {
+        "\ufeffDate": "2005-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "393": {
+        "\ufeffDate": "2005-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "394": {
+        "\ufeffDate": "2005-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "395": {
+        "\ufeffDate": "2005-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "396": {
+        "\ufeffDate": "2005-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "397": {
+        "\ufeffDate": "2005-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "398": {
+        "\ufeffDate": "2005-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "51"
+    },
+    "399": {
+        "\ufeffDate": "2005-09-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "400": {
+        "\ufeffDate": "2005-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "401": {
+        "\ufeffDate": "2005-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "402": {
+        "\ufeffDate": "2005-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "403": {
+        "\ufeffDate": "2005-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "404": {
+        "\ufeffDate": "2005-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "405": {
+        "\ufeffDate": "2005-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "406": {
+        "\ufeffDate": "2005-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "407": {
+        "\ufeffDate": "2005-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "408": {
+        "\ufeffDate": "2005-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "409": {
+        "\ufeffDate": "2005-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "410": {
+        "\ufeffDate": "2005-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "411": {
+        "\ufeffDate": "2005-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "412": {
+        "\ufeffDate": "2005-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "413": {
+        "\ufeffDate": "2005-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "414": {
+        "\ufeffDate": "2005-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "415": {
+        "\ufeffDate": "2005-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "416": {
+        "\ufeffDate": "2005-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "417": {
+        "\ufeffDate": "2005-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "418": {
+        "\ufeffDate": "2005-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "419": {
+        "\ufeffDate": "2005-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "420": {
+        "\ufeffDate": "2005-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "421": {
+        "\ufeffDate": "2005-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "422": {
+        "\ufeffDate": "2005-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "423": {
+        "\ufeffDate": "2005-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "424": {
+        "\ufeffDate": "2005-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "425": {
+        "\ufeffDate": "2005-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "426": {
+        "\ufeffDate": "2006-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "427": {
+        "\ufeffDate": "2006-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "428": {
+        "\ufeffDate": "2006-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "429": {
+        "\ufeffDate": "2006-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "430": {
+        "\ufeffDate": "2006-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "431": {
+        "\ufeffDate": "2006-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "432": {
+        "\ufeffDate": "2006-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "433": {
+        "\ufeffDate": "2006-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "434": {
+        "\ufeffDate": "2006-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "435": {
+        "\ufeffDate": "2006-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "436": {
+        "\ufeffDate": "2006-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "437": {
+        "\ufeffDate": "2006-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "438": {
+        "\ufeffDate": "2006-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "439": {
+        "\ufeffDate": "2006-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "440": {
+        "\ufeffDate": "2006-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "441": {
+        "\ufeffDate": "2006-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "442": {
+        "\ufeffDate": "2006-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "443": {
+        "\ufeffDate": "2006-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "48"
+    },
+    "444": {
+        "\ufeffDate": "2006-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "445": {
+        "\ufeffDate": "2006-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "446": {
+        "\ufeffDate": "2006-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "447": {
+        "\ufeffDate": "2006-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "448": {
+        "\ufeffDate": "2006-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "11"
+    },
+    "449": {
+        "\ufeffDate": "2006-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "450": {
+        "\ufeffDate": "2006-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "451": {
+        "\ufeffDate": "2006-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "452": {
+        "\ufeffDate": "2006-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "453": {
+        "\ufeffDate": "2006-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "454": {
+        "\ufeffDate": "2006-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "455": {
+        "\ufeffDate": "2006-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "456": {
+        "\ufeffDate": "2006-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "457": {
+        "\ufeffDate": "2006-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "458": {
+        "\ufeffDate": "2006-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "459": {
+        "\ufeffDate": "2006-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "460": {
+        "\ufeffDate": "2006-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "461": {
+        "\ufeffDate": "2006-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "462": {
+        "\ufeffDate": "2006-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "463": {
+        "\ufeffDate": "2006-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "464": {
+        "\ufeffDate": "2006-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "465": {
+        "\ufeffDate": "2006-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "466": {
+        "\ufeffDate": "2006-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "467": {
+        "\ufeffDate": "2006-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "468": {
+        "\ufeffDate": "2006-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "469": {
+        "\ufeffDate": "2006-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "470": {
+        "\ufeffDate": "2006-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "471": {
+        "\ufeffDate": "2006-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "472": {
+        "\ufeffDate": "2006-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "473": {
+        "\ufeffDate": "2006-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "474": {
+        "\ufeffDate": "2006-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "475": {
+        "\ufeffDate": "2006-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "476": {
+        "\ufeffDate": "2006-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "477": {
+        "\ufeffDate": "2006-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "478": {
+        "\ufeffDate": "2006-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "479": {
+        "\ufeffDate": "2006-08-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "480": {
+        "\ufeffDate": "2006-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "481": {
+        "\ufeffDate": "2006-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "482": {
+        "\ufeffDate": "2006-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "483": {
+        "\ufeffDate": "2006-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "484": {
+        "\ufeffDate": "2006-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "485": {
+        "\ufeffDate": "2006-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "486": {
+        "\ufeffDate": "2006-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "487": {
+        "\ufeffDate": "2006-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "488": {
+        "\ufeffDate": "2006-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "489": {
+        "\ufeffDate": "2006-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "51"
+    },
+    "490": {
+        "\ufeffDate": "2006-09-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "491": {
+        "\ufeffDate": "2006-10-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "492": {
+        "\ufeffDate": "2006-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "493": {
+        "\ufeffDate": "2006-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "494": {
+        "\ufeffDate": "2006-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "495": {
+        "\ufeffDate": "2006-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "496": {
+        "\ufeffDate": "2006-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "497": {
+        "\ufeffDate": "2006-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "498": {
+        "\ufeffDate": "2006-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "499": {
+        "\ufeffDate": "2006-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "500": {
+        "\ufeffDate": "2006-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "501": {
+        "\ufeffDate": "2006-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "502": {
+        "\ufeffDate": "2006-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "503": {
+        "\ufeffDate": "2006-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "504": {
+        "\ufeffDate": "2006-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "505": {
+        "\ufeffDate": "2006-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "506": {
+        "\ufeffDate": "2006-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "507": {
+        "\ufeffDate": "2006-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "508": {
+        "\ufeffDate": "2006-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "509": {
+        "\ufeffDate": "2006-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "510": {
+        "\ufeffDate": "2006-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "511": {
+        "\ufeffDate": "2006-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "512": {
+        "\ufeffDate": "2007-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "513": {
+        "\ufeffDate": "2007-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "514": {
+        "\ufeffDate": "2007-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "515": {
+        "\ufeffDate": "2007-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "516": {
+        "\ufeffDate": "2007-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "517": {
+        "\ufeffDate": "2007-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "518": {
+        "\ufeffDate": "2007-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "519": {
+        "\ufeffDate": "2007-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "520": {
+        "\ufeffDate": "2007-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "521": {
+        "\ufeffDate": "2007-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "522": {
+        "\ufeffDate": "2007-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "523": {
+        "\ufeffDate": "2007-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "524": {
+        "\ufeffDate": "2007-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "525": {
+        "\ufeffDate": "2007-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "526": {
+        "\ufeffDate": "2007-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "527": {
+        "\ufeffDate": "2007-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "528": {
+        "\ufeffDate": "2007-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "529": {
+        "\ufeffDate": "2007-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "48"
+    },
+    "530": {
+        "\ufeffDate": "2007-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "531": {
+        "\ufeffDate": "2007-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "532": {
+        "\ufeffDate": "2007-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "533": {
+        "\ufeffDate": "2007-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "534": {
+        "\ufeffDate": "2007-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "535": {
+        "\ufeffDate": "2007-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "536": {
+        "\ufeffDate": "2007-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "537": {
+        "\ufeffDate": "2007-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "538": {
+        "\ufeffDate": "2007-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "539": {
+        "\ufeffDate": "2007-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "540": {
+        "\ufeffDate": "2007-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "541": {
+        "\ufeffDate": "2007-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "542": {
+        "\ufeffDate": "2007-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "543": {
+        "\ufeffDate": "2007-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "544": {
+        "\ufeffDate": "2007-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "545": {
+        "\ufeffDate": "2007-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "546": {
+        "\ufeffDate": "2007-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "547": {
+        "\ufeffDate": "2007-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "548": {
+        "\ufeffDate": "2007-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "549": {
+        "\ufeffDate": "2007-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "550": {
+        "\ufeffDate": "2007-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "551": {
+        "\ufeffDate": "2007-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "552": {
+        "\ufeffDate": "2007-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "553": {
+        "\ufeffDate": "2007-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "554": {
+        "\ufeffDate": "2007-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "555": {
+        "\ufeffDate": "2007-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "556": {
+        "\ufeffDate": "2007-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "557": {
+        "\ufeffDate": "2007-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "558": {
+        "\ufeffDate": "2007-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "559": {
+        "\ufeffDate": "2007-08-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "46"
+    },
+    "560": {
+        "\ufeffDate": "2007-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "561": {
+        "\ufeffDate": "2007-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "562": {
+        "\ufeffDate": "2007-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "563": {
+        "\ufeffDate": "2007-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "564": {
+        "\ufeffDate": "2007-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "565": {
+        "\ufeffDate": "2007-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "566": {
+        "\ufeffDate": "2007-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "567": {
+        "\ufeffDate": "2007-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "568": {
+        "\ufeffDate": "2007-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "569": {
+        "\ufeffDate": "2007-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "570": {
+        "\ufeffDate": "2007-10-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "571": {
+        "\ufeffDate": "2007-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "572": {
+        "\ufeffDate": "2007-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "573": {
+        "\ufeffDate": "2007-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "574": {
+        "\ufeffDate": "2007-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "575": {
+        "\ufeffDate": "2007-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "576": {
+        "\ufeffDate": "2007-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "577": {
+        "\ufeffDate": "2007-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "578": {
+        "\ufeffDate": "2007-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "579": {
+        "\ufeffDate": "2007-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "580": {
+        "\ufeffDate": "2007-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "581": {
+        "\ufeffDate": "2007-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "582": {
+        "\ufeffDate": "2007-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "583": {
+        "\ufeffDate": "2007-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "584": {
+        "\ufeffDate": "2007-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "585": {
+        "\ufeffDate": "2007-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "586": {
+        "\ufeffDate": "2007-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "587": {
+        "\ufeffDate": "2007-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "588": {
+        "\ufeffDate": "2007-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "589": {
+        "\ufeffDate": "2007-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "590": {
+        "\ufeffDate": "2007-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "591": {
+        "\ufeffDate": "2007-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "592": {
+        "\ufeffDate": "2007-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "593": {
+        "\ufeffDate": "2007-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "594": {
+        "\ufeffDate": "2007-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "595": {
+        "\ufeffDate": "2008-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "596": {
+        "\ufeffDate": "2008-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "597": {
+        "\ufeffDate": "2008-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "598": {
+        "\ufeffDate": "2008-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "599": {
+        "\ufeffDate": "2008-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "600": {
+        "\ufeffDate": "2008-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "601": {
+        "\ufeffDate": "2008-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "602": {
+        "\ufeffDate": "2008-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "603": {
+        "\ufeffDate": "2008-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "604": {
+        "\ufeffDate": "2008-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "605": {
+        "\ufeffDate": "2008-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "606": {
+        "\ufeffDate": "2008-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "607": {
+        "\ufeffDate": "2008-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "608": {
+        "\ufeffDate": "2008-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "609": {
+        "\ufeffDate": "2008-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "610": {
+        "\ufeffDate": "2008-03-10",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "611": {
+        "\ufeffDate": "2008-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "612": {
+        "\ufeffDate": "2008-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "613": {
+        "\ufeffDate": "2008-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "614": {
+        "\ufeffDate": "2008-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "615": {
+        "\ufeffDate": "2008-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "11"
+    },
+    "616": {
+        "\ufeffDate": "2008-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "617": {
+        "\ufeffDate": "2008-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "618": {
+        "\ufeffDate": "2008-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "619": {
+        "\ufeffDate": "2008-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "620": {
+        "\ufeffDate": "2008-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "621": {
+        "\ufeffDate": "2008-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "622": {
+        "\ufeffDate": "2008-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "623": {
+        "\ufeffDate": "2008-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "624": {
+        "\ufeffDate": "2008-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "625": {
+        "\ufeffDate": "2008-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "626": {
+        "\ufeffDate": "2008-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "627": {
+        "\ufeffDate": "2008-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "628": {
+        "\ufeffDate": "2008-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "629": {
+        "\ufeffDate": "2008-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "630": {
+        "\ufeffDate": "2008-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "631": {
+        "\ufeffDate": "2008-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "632": {
+        "\ufeffDate": "2008-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "633": {
+        "\ufeffDate": "2008-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "634": {
+        "\ufeffDate": "2008-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "635": {
+        "\ufeffDate": "2008-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "636": {
+        "\ufeffDate": "2008-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "637": {
+        "\ufeffDate": "2008-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "638": {
+        "\ufeffDate": "2008-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "639": {
+        "\ufeffDate": "2008-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "640": {
+        "\ufeffDate": "2008-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "641": {
+        "\ufeffDate": "2008-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "642": {
+        "\ufeffDate": "2008-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "643": {
+        "\ufeffDate": "2008-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "644": {
+        "\ufeffDate": "2008-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "645": {
+        "\ufeffDate": "2008-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "646": {
+        "\ufeffDate": "2008-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "647": {
+        "\ufeffDate": "2008-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "648": {
+        "\ufeffDate": "2008-08-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "46"
+    },
+    "649": {
+        "\ufeffDate": "2008-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "650": {
+        "\ufeffDate": "2008-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "651": {
+        "\ufeffDate": "2008-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "652": {
+        "\ufeffDate": "2008-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "653": {
+        "\ufeffDate": "2008-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "654": {
+        "\ufeffDate": "2008-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "655": {
+        "\ufeffDate": "2008-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "656": {
+        "\ufeffDate": "2008-10-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "657": {
+        "\ufeffDate": "2008-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "658": {
+        "\ufeffDate": "2008-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "659": {
+        "\ufeffDate": "2008-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "660": {
+        "\ufeffDate": "2008-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "661": {
+        "\ufeffDate": "2008-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "662": {
+        "\ufeffDate": "2008-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "663": {
+        "\ufeffDate": "2008-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "664": {
+        "\ufeffDate": "2008-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "665": {
+        "\ufeffDate": "2008-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "666": {
+        "\ufeffDate": "2008-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "667": {
+        "\ufeffDate": "2008-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "668": {
+        "\ufeffDate": "2008-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "669": {
+        "\ufeffDate": "2008-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "670": {
+        "\ufeffDate": "2008-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "671": {
+        "\ufeffDate": "2008-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "672": {
+        "\ufeffDate": "2008-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "673": {
+        "\ufeffDate": "2008-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "674": {
+        "\ufeffDate": "2008-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "675": {
+        "\ufeffDate": "2008-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "676": {
+        "\ufeffDate": "2008-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "677": {
+        "\ufeffDate": "2008-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "678": {
+        "\ufeffDate": "2008-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "679": {
+        "\ufeffDate": "2008-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "680": {
+        "\ufeffDate": "2008-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "681": {
+        "\ufeffDate": "2008-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "682": {
+        "\ufeffDate": "2009-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "683": {
+        "\ufeffDate": "2009-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "684": {
+        "\ufeffDate": "2009-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "685": {
+        "\ufeffDate": "2009-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "686": {
+        "\ufeffDate": "2009-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "687": {
+        "\ufeffDate": "2009-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "688": {
+        "\ufeffDate": "2009-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "689": {
+        "\ufeffDate": "2009-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "690": {
+        "\ufeffDate": "2009-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "691": {
+        "\ufeffDate": "2009-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "692": {
+        "\ufeffDate": "2009-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "693": {
+        "\ufeffDate": "2009-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "694": {
+        "\ufeffDate": "2009-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "695": {
+        "\ufeffDate": "2009-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "696": {
+        "\ufeffDate": "2009-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "37"
+    },
+    "697": {
+        "\ufeffDate": "2009-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "698": {
+        "\ufeffDate": "2009-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "699": {
+        "\ufeffDate": "2009-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "700": {
+        "\ufeffDate": "2009-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "701": {
+        "\ufeffDate": "2009-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "702": {
+        "\ufeffDate": "2009-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "48"
+    },
+    "703": {
+        "\ufeffDate": "2009-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "704": {
+        "\ufeffDate": "2009-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "11"
+    },
+    "705": {
+        "\ufeffDate": "2009-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "706": {
+        "\ufeffDate": "2009-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "707": {
+        "\ufeffDate": "2009-04-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "35"
+    },
+    "708": {
+        "\ufeffDate": "2009-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "709": {
+        "\ufeffDate": "2009-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "710": {
+        "\ufeffDate": "2009-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "711": {
+        "\ufeffDate": "2009-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "712": {
+        "\ufeffDate": "2009-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "713": {
+        "\ufeffDate": "2009-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "714": {
+        "\ufeffDate": "2009-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "715": {
+        "\ufeffDate": "2009-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "716": {
+        "\ufeffDate": "2009-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "717": {
+        "\ufeffDate": "2009-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "718": {
+        "\ufeffDate": "2009-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "719": {
+        "\ufeffDate": "2009-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "720": {
+        "\ufeffDate": "2009-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "721": {
+        "\ufeffDate": "2009-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "722": {
+        "\ufeffDate": "2009-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "723": {
+        "\ufeffDate": "2009-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "724": {
+        "\ufeffDate": "2009-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "725": {
+        "\ufeffDate": "2009-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "726": {
+        "\ufeffDate": "2009-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "727": {
+        "\ufeffDate": "2009-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "50"
+    },
+    "728": {
+        "\ufeffDate": "2009-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "729": {
+        "\ufeffDate": "2009-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "730": {
+        "\ufeffDate": "2009-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "731": {
+        "\ufeffDate": "2009-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "732": {
+        "\ufeffDate": "2009-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "733": {
+        "\ufeffDate": "2009-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "734": {
+        "\ufeffDate": "2009-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "735": {
+        "\ufeffDate": "2009-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "736": {
+        "\ufeffDate": "2009-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "737": {
+        "\ufeffDate": "2009-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "738": {
+        "\ufeffDate": "2009-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "739": {
+        "\ufeffDate": "2009-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "740": {
+        "\ufeffDate": "2009-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "741": {
+        "\ufeffDate": "2009-09-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "742": {
+        "\ufeffDate": "2009-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "743": {
+        "\ufeffDate": "2009-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "744": {
+        "\ufeffDate": "2009-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "745": {
+        "\ufeffDate": "2009-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "746": {
+        "\ufeffDate": "2009-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "747": {
+        "\ufeffDate": "2009-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "748": {
+        "\ufeffDate": "2009-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "749": {
+        "\ufeffDate": "2009-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "750": {
+        "\ufeffDate": "2009-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "751": {
+        "\ufeffDate": "2009-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "752": {
+        "\ufeffDate": "2009-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "753": {
+        "\ufeffDate": "2009-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "754": {
+        "\ufeffDate": "2009-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "755": {
+        "\ufeffDate": "2009-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "756": {
+        "\ufeffDate": "2009-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "757": {
+        "\ufeffDate": "2009-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "758": {
+        "\ufeffDate": "2009-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "759": {
+        "\ufeffDate": "2009-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "760": {
+        "\ufeffDate": "2009-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "761": {
+        "\ufeffDate": "2009-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "762": {
+        "\ufeffDate": "2009-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "763": {
+        "\ufeffDate": "2009-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "764": {
+        "\ufeffDate": "2009-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "765": {
+        "\ufeffDate": "2009-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "766": {
+        "\ufeffDate": "2010-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "767": {
+        "\ufeffDate": "2010-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "768": {
+        "\ufeffDate": "2010-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "769": {
+        "\ufeffDate": "2010-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "770": {
+        "\ufeffDate": "2010-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "771": {
+        "\ufeffDate": "2010-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "772": {
+        "\ufeffDate": "2010-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "773": {
+        "\ufeffDate": "2010-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "774": {
+        "\ufeffDate": "2010-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "775": {
+        "\ufeffDate": "2010-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "776": {
+        "\ufeffDate": "2010-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "777": {
+        "\ufeffDate": "2010-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "778": {
+        "\ufeffDate": "2010-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "779": {
+        "\ufeffDate": "2010-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "37"
+    },
+    "780": {
+        "\ufeffDate": "2010-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "781": {
+        "\ufeffDate": "2010-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "782": {
+        "\ufeffDate": "2010-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "783": {
+        "\ufeffDate": "2010-04-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "784": {
+        "\ufeffDate": "2010-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "785": {
+        "\ufeffDate": "2010-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "786": {
+        "\ufeffDate": "2010-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "787": {
+        "\ufeffDate": "2010-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "788": {
+        "\ufeffDate": "2010-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "789": {
+        "\ufeffDate": "2010-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "790": {
+        "\ufeffDate": "2010-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "791": {
+        "\ufeffDate": "2010-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "792": {
+        "\ufeffDate": "2010-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "793": {
+        "\ufeffDate": "2010-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "794": {
+        "\ufeffDate": "2010-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "795": {
+        "\ufeffDate": "2010-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "796": {
+        "\ufeffDate": "2010-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "797": {
+        "\ufeffDate": "2010-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "798": {
+        "\ufeffDate": "2010-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "799": {
+        "\ufeffDate": "2010-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "800": {
+        "\ufeffDate": "2010-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "801": {
+        "\ufeffDate": "2010-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "802": {
+        "\ufeffDate": "2010-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "803": {
+        "\ufeffDate": "2010-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "804": {
+        "\ufeffDate": "2010-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "805": {
+        "\ufeffDate": "2010-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "806": {
+        "\ufeffDate": "2010-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "807": {
+        "\ufeffDate": "2010-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "808": {
+        "\ufeffDate": "2010-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "809": {
+        "\ufeffDate": "2010-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "810": {
+        "\ufeffDate": "2010-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "811": {
+        "\ufeffDate": "2010-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "812": {
+        "\ufeffDate": "2010-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "813": {
+        "\ufeffDate": "2010-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "814": {
+        "\ufeffDate": "2010-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "815": {
+        "\ufeffDate": "2010-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "816": {
+        "\ufeffDate": "2010-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "817": {
+        "\ufeffDate": "2010-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "818": {
+        "\ufeffDate": "2010-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "819": {
+        "\ufeffDate": "2010-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "820": {
+        "\ufeffDate": "2010-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "821": {
+        "\ufeffDate": "2010-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "822": {
+        "\ufeffDate": "2010-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "823": {
+        "\ufeffDate": "2010-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "824": {
+        "\ufeffDate": "2010-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "825": {
+        "\ufeffDate": "2010-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "826": {
+        "\ufeffDate": "2010-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "827": {
+        "\ufeffDate": "2010-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "828": {
+        "\ufeffDate": "2010-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "829": {
+        "\ufeffDate": "2010-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "830": {
+        "\ufeffDate": "2010-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "831": {
+        "\ufeffDate": "2010-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "832": {
+        "\ufeffDate": "2010-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "833": {
+        "\ufeffDate": "2010-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "834": {
+        "\ufeffDate": "2010-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "835": {
+        "\ufeffDate": "2010-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "836": {
+        "\ufeffDate": "2010-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "837": {
+        "\ufeffDate": "2010-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "838": {
+        "\ufeffDate": "2010-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "839": {
+        "\ufeffDate": "2010-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "840": {
+        "\ufeffDate": "2010-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "841": {
+        "\ufeffDate": "2010-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "842": {
+        "\ufeffDate": "2010-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "843": {
+        "\ufeffDate": "2010-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "844": {
+        "\ufeffDate": "2010-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "845": {
+        "\ufeffDate": "2010-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "846": {
+        "\ufeffDate": "2011-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "847": {
+        "\ufeffDate": "2011-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "848": {
+        "\ufeffDate": "2011-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "849": {
+        "\ufeffDate": "2011-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "850": {
+        "\ufeffDate": "2011-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "851": {
+        "\ufeffDate": "2011-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "852": {
+        "\ufeffDate": "2011-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "853": {
+        "\ufeffDate": "2011-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "854": {
+        "\ufeffDate": "2011-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "855": {
+        "\ufeffDate": "2011-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "856": {
+        "\ufeffDate": "2011-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "857": {
+        "\ufeffDate": "2011-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "858": {
+        "\ufeffDate": "2011-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "859": {
+        "\ufeffDate": "2011-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "860": {
+        "\ufeffDate": "2011-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "861": {
+        "\ufeffDate": "2011-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "862": {
+        "\ufeffDate": "2011-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "863": {
+        "\ufeffDate": "2011-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "864": {
+        "\ufeffDate": "2011-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "865": {
+        "\ufeffDate": "2011-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "866": {
+        "\ufeffDate": "2011-04-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "867": {
+        "\ufeffDate": "2011-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "868": {
+        "\ufeffDate": "2011-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "869": {
+        "\ufeffDate": "2011-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "870": {
+        "\ufeffDate": "2011-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "871": {
+        "\ufeffDate": "2011-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "872": {
+        "\ufeffDate": "2011-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "873": {
+        "\ufeffDate": "2011-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "874": {
+        "\ufeffDate": "2011-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "875": {
+        "\ufeffDate": "2011-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "876": {
+        "\ufeffDate": "2011-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "877": {
+        "\ufeffDate": "2011-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "878": {
+        "\ufeffDate": "2011-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "879": {
+        "\ufeffDate": "2011-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "880": {
+        "\ufeffDate": "2011-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "881": {
+        "\ufeffDate": "2011-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "882": {
+        "\ufeffDate": "2011-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "53"
+    },
+    "883": {
+        "\ufeffDate": "2011-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "884": {
+        "\ufeffDate": "2011-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "885": {
+        "\ufeffDate": "2011-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "886": {
+        "\ufeffDate": "2011-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "887": {
+        "\ufeffDate": "2011-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "888": {
+        "\ufeffDate": "2011-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "889": {
+        "\ufeffDate": "2011-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "890": {
+        "\ufeffDate": "2011-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "891": {
+        "\ufeffDate": "2011-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "892": {
+        "\ufeffDate": "2011-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "893": {
+        "\ufeffDate": "2011-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "894": {
+        "\ufeffDate": "2011-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "895": {
+        "\ufeffDate": "2011-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "896": {
+        "\ufeffDate": "2011-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "897": {
+        "\ufeffDate": "2011-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "898": {
+        "\ufeffDate": "2011-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "899": {
+        "\ufeffDate": "2011-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "900": {
+        "\ufeffDate": "2011-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "901": {
+        "\ufeffDate": "2011-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "902": {
+        "\ufeffDate": "2011-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "903": {
+        "\ufeffDate": "2011-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "51"
+    },
+    "904": {
+        "\ufeffDate": "2011-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "905": {
+        "\ufeffDate": "2011-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "906": {
+        "\ufeffDate": "2011-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "907": {
+        "\ufeffDate": "2011-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "908": {
+        "\ufeffDate": "2011-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "909": {
+        "\ufeffDate": "2011-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "910": {
+        "\ufeffDate": "2011-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "911": {
+        "\ufeffDate": "2011-10-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "912": {
+        "\ufeffDate": "2011-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "913": {
+        "\ufeffDate": "2011-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "914": {
+        "\ufeffDate": "2011-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "915": {
+        "\ufeffDate": "2011-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "916": {
+        "\ufeffDate": "2011-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "917": {
+        "\ufeffDate": "2011-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "918": {
+        "\ufeffDate": "2011-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "919": {
+        "\ufeffDate": "2011-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "920": {
+        "\ufeffDate": "2011-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "921": {
+        "\ufeffDate": "2011-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "922": {
+        "\ufeffDate": "2011-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "923": {
+        "\ufeffDate": "2011-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "924": {
+        "\ufeffDate": "2011-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "925": {
+        "\ufeffDate": "2011-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "926": {
+        "\ufeffDate": "2011-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "927": {
+        "\ufeffDate": "2011-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "928": {
+        "\ufeffDate": "2011-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "929": {
+        "\ufeffDate": "2011-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "930": {
+        "\ufeffDate": "2011-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "931": {
+        "\ufeffDate": "2011-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "932": {
+        "\ufeffDate": "2012-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "933": {
+        "\ufeffDate": "2012-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "934": {
+        "\ufeffDate": "2012-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "935": {
+        "\ufeffDate": "2012-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "936": {
+        "\ufeffDate": "2012-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "937": {
+        "\ufeffDate": "2012-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "938": {
+        "\ufeffDate": "2012-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "939": {
+        "\ufeffDate": "2012-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "940": {
+        "\ufeffDate": "2012-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "941": {
+        "\ufeffDate": "2012-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "942": {
+        "\ufeffDate": "2012-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "943": {
+        "\ufeffDate": "2012-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "944": {
+        "\ufeffDate": "2012-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "945": {
+        "\ufeffDate": "2012-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "946": {
+        "\ufeffDate": "2012-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "947": {
+        "\ufeffDate": "2012-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "948": {
+        "\ufeffDate": "2012-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "949": {
+        "\ufeffDate": "2012-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "950": {
+        "\ufeffDate": "2012-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "951": {
+        "\ufeffDate": "2012-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "952": {
+        "\ufeffDate": "2012-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "953": {
+        "\ufeffDate": "2012-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "954": {
+        "\ufeffDate": "2012-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "955": {
+        "\ufeffDate": "2012-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "956": {
+        "\ufeffDate": "2012-04-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "957": {
+        "\ufeffDate": "2012-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "958": {
+        "\ufeffDate": "2012-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "959": {
+        "\ufeffDate": "2012-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "960": {
+        "\ufeffDate": "2012-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "961": {
+        "\ufeffDate": "2012-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "962": {
+        "\ufeffDate": "2012-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "963": {
+        "\ufeffDate": "2012-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "964": {
+        "\ufeffDate": "2012-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "42"
+    },
+    "965": {
+        "\ufeffDate": "2012-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "966": {
+        "\ufeffDate": "2012-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "967": {
+        "\ufeffDate": "2012-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "968": {
+        "\ufeffDate": "2012-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "969": {
+        "\ufeffDate": "2012-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "970": {
+        "\ufeffDate": "2012-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "971": {
+        "\ufeffDate": "2012-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "972": {
+        "\ufeffDate": "2012-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "973": {
+        "\ufeffDate": "2012-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "974": {
+        "\ufeffDate": "2012-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "975": {
+        "\ufeffDate": "2012-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "976": {
+        "\ufeffDate": "2012-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "977": {
+        "\ufeffDate": "2012-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "978": {
+        "\ufeffDate": "2012-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "979": {
+        "\ufeffDate": "2012-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "980": {
+        "\ufeffDate": "2012-08-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "981": {
+        "\ufeffDate": "2012-08-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "982": {
+        "\ufeffDate": "2012-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "54"
+    },
+    "983": {
+        "\ufeffDate": "2012-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "984": {
+        "\ufeffDate": "2012-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "985": {
+        "\ufeffDate": "2012-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "986": {
+        "\ufeffDate": "2012-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "987": {
+        "\ufeffDate": "2012-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "988": {
+        "\ufeffDate": "2012-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "989": {
+        "\ufeffDate": "2012-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "990": {
+        "\ufeffDate": "2012-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "51"
+    },
+    "991": {
+        "\ufeffDate": "2012-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "992": {
+        "\ufeffDate": "2012-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "993": {
+        "\ufeffDate": "2012-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "994": {
+        "\ufeffDate": "2012-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "995": {
+        "\ufeffDate": "2012-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "996": {
+        "\ufeffDate": "2012-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "997": {
+        "\ufeffDate": "2012-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "998": {
+        "\ufeffDate": "2012-10-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "999": {
+        "\ufeffDate": "2012-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1000": {
+        "\ufeffDate": "2012-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1001": {
+        "\ufeffDate": "2012-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1002": {
+        "\ufeffDate": "2012-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1003": {
+        "\ufeffDate": "2012-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1004": {
+        "\ufeffDate": "2012-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1005": {
+        "\ufeffDate": "2012-11-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1006": {
+        "\ufeffDate": "2012-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1007": {
+        "\ufeffDate": "2012-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "1008": {
+        "\ufeffDate": "2012-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "1009": {
+        "\ufeffDate": "2012-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1010": {
+        "\ufeffDate": "2012-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1011": {
+        "\ufeffDate": "2012-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1012": {
+        "\ufeffDate": "2012-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1013": {
+        "\ufeffDate": "2012-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1014": {
+        "\ufeffDate": "2012-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "1015": {
+        "\ufeffDate": "2012-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1016": {
+        "\ufeffDate": "2012-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1017": {
+        "\ufeffDate": "2012-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "1018": {
+        "\ufeffDate": "2012-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "1019": {
+        "\ufeffDate": "2012-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1020": {
+        "\ufeffDate": "2013-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1021": {
+        "\ufeffDate": "2013-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1022": {
+        "\ufeffDate": "2013-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1023": {
+        "\ufeffDate": "2013-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1024": {
+        "\ufeffDate": "2013-01-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1025": {
+        "\ufeffDate": "2013-01-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1026": {
+        "\ufeffDate": "2013-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1027": {
+        "\ufeffDate": "2013-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1028": {
+        "\ufeffDate": "2013-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "1029": {
+        "\ufeffDate": "2013-02-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1030": {
+        "\ufeffDate": "2013-02-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1031": {
+        "\ufeffDate": "2013-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "1032": {
+        "\ufeffDate": "2013-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "1033": {
+        "\ufeffDate": "2013-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1034": {
+        "\ufeffDate": "2013-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1035": {
+        "\ufeffDate": "2013-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "1036": {
+        "\ufeffDate": "2013-03-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "1037": {
+        "\ufeffDate": "2013-03-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1038": {
+        "\ufeffDate": "2013-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "1039": {
+        "\ufeffDate": "2013-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "1040": {
+        "\ufeffDate": "2013-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1041": {
+        "\ufeffDate": "2013-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1042": {
+        "\ufeffDate": "2013-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1043": {
+        "\ufeffDate": "2013-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "11"
+    },
+    "1044": {
+        "\ufeffDate": "2013-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1045": {
+        "\ufeffDate": "2013-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1046": {
+        "\ufeffDate": "2013-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1047": {
+        "\ufeffDate": "2013-04-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "1048": {
+        "\ufeffDate": "2013-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "1049": {
+        "\ufeffDate": "2013-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1050": {
+        "\ufeffDate": "2013-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1051": {
+        "\ufeffDate": "2013-05-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1052": {
+        "\ufeffDate": "2013-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1053": {
+        "\ufeffDate": "2013-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1054": {
+        "\ufeffDate": "2013-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1055": {
+        "\ufeffDate": "2013-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "1056": {
+        "\ufeffDate": "2013-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "1057": {
+        "\ufeffDate": "2013-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "1058": {
+        "\ufeffDate": "2013-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1059": {
+        "\ufeffDate": "2013-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "1060": {
+        "\ufeffDate": "2013-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "1061": {
+        "\ufeffDate": "2013-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1062": {
+        "\ufeffDate": "2013-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1063": {
+        "\ufeffDate": "2013-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1064": {
+        "\ufeffDate": "2013-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1065": {
+        "\ufeffDate": "2013-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "1066": {
+        "\ufeffDate": "2013-07-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1067": {
+        "\ufeffDate": "2013-07-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "1068": {
+        "\ufeffDate": "2013-07-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1069": {
+        "\ufeffDate": "2013-08-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1070": {
+        "\ufeffDate": "2013-08-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1071": {
+        "\ufeffDate": "2013-08-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1072": {
+        "\ufeffDate": "2013-08-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "1073": {
+        "\ufeffDate": "2013-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "1074": {
+        "\ufeffDate": "2013-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1075": {
+        "\ufeffDate": "2013-08-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "48"
+    },
+    "1076": {
+        "\ufeffDate": "2013-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "1077": {
+        "\ufeffDate": "2013-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1078": {
+        "\ufeffDate": "2013-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1079": {
+        "\ufeffDate": "2013-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1080": {
+        "\ufeffDate": "2013-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1081": {
+        "\ufeffDate": "2013-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1082": {
+        "\ufeffDate": "2013-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1083": {
+        "\ufeffDate": "2013-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1084": {
+        "\ufeffDate": "2013-09-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "1085": {
+        "\ufeffDate": "2013-09-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "51"
+    },
+    "1086": {
+        "\ufeffDate": "2013-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "1087": {
+        "\ufeffDate": "2013-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1088": {
+        "\ufeffDate": "2013-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1089": {
+        "\ufeffDate": "2013-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1090": {
+        "\ufeffDate": "2013-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1091": {
+        "\ufeffDate": "2013-11-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1092": {
+        "\ufeffDate": "2013-11-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1093": {
+        "\ufeffDate": "2013-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "1094": {
+        "\ufeffDate": "2013-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "1095": {
+        "\ufeffDate": "2013-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1096": {
+        "\ufeffDate": "2013-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1097": {
+        "\ufeffDate": "2013-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1098": {
+        "\ufeffDate": "2013-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1099": {
+        "\ufeffDate": "2013-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "1100": {
+        "\ufeffDate": "2013-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1101": {
+        "\ufeffDate": "2013-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1102": {
+        "\ufeffDate": "2013-12-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "1103": {
+        "\ufeffDate": "2013-12-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "1104": {
+        "\ufeffDate": "2013-12-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1105": {
+        "\ufeffDate": "2014-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1106": {
+        "\ufeffDate": "2014-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1107": {
+        "\ufeffDate": "2014-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1108": {
+        "\ufeffDate": "2014-01-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1109": {
+        "\ufeffDate": "2014-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1110": {
+        "\ufeffDate": "2014-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1111": {
+        "\ufeffDate": "2014-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1112": {
+        "\ufeffDate": "2014-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1113": {
+        "\ufeffDate": "2014-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "39"
+    },
+    "1114": {
+        "\ufeffDate": "2014-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1115": {
+        "\ufeffDate": "2014-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1116": {
+        "\ufeffDate": "2014-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1117": {
+        "\ufeffDate": "2014-02-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "14"
+    },
+    "1118": {
+        "\ufeffDate": "2014-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1119": {
+        "\ufeffDate": "2014-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "1120": {
+        "\ufeffDate": "2014-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "1121": {
+        "\ufeffDate": "2014-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1122": {
+        "\ufeffDate": "2014-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1123": {
+        "\ufeffDate": "2014-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1124": {
+        "\ufeffDate": "2014-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "1125": {
+        "\ufeffDate": "2014-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1126": {
+        "\ufeffDate": "2014-05-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1127": {
+        "\ufeffDate": "2014-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "1128": {
+        "\ufeffDate": "2014-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "1129": {
+        "\ufeffDate": "2014-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1130": {
+        "\ufeffDate": "2014-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "32"
+    },
+    "1131": {
+        "\ufeffDate": "2014-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1132": {
+        "\ufeffDate": "2014-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "1133": {
+        "\ufeffDate": "2014-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1134": {
+        "\ufeffDate": "2014-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1135": {
+        "\ufeffDate": "2014-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "1136": {
+        "\ufeffDate": "2014-06-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1137": {
+        "\ufeffDate": "2014-06-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "1138": {
+        "\ufeffDate": "2014-06-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "1139": {
+        "\ufeffDate": "2014-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1140": {
+        "\ufeffDate": "2014-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1141": {
+        "\ufeffDate": "2014-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1142": {
+        "\ufeffDate": "2014-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1143": {
+        "\ufeffDate": "2014-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "1144": {
+        "\ufeffDate": "2014-08-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1145": {
+        "\ufeffDate": "2014-08-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1146": {
+        "\ufeffDate": "2014-08-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "60"
+    },
+    "1147": {
+        "\ufeffDate": "2014-08-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1148": {
+        "\ufeffDate": "2014-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "1149": {
+        "\ufeffDate": "2014-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1150": {
+        "\ufeffDate": "2014-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1151": {
+        "\ufeffDate": "2014-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1152": {
+        "\ufeffDate": "2014-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "1153": {
+        "\ufeffDate": "2014-09-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1154": {
+        "\ufeffDate": "2014-09-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1155": {
+        "\ufeffDate": "2014-09-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1156": {
+        "\ufeffDate": "2014-10-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "1157": {
+        "\ufeffDate": "2014-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "1158": {
+        "\ufeffDate": "2014-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1159": {
+        "\ufeffDate": "2014-10-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "1160": {
+        "\ufeffDate": "2014-10-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "1161": {
+        "\ufeffDate": "2014-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "38"
+    },
+    "1162": {
+        "\ufeffDate": "2014-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "1163": {
+        "\ufeffDate": "2014-11-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1164": {
+        "\ufeffDate": "2014-11-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1165": {
+        "\ufeffDate": "2014-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1166": {
+        "\ufeffDate": "2014-11-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1167": {
+        "\ufeffDate": "2014-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "1168": {
+        "\ufeffDate": "2014-11-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1169": {
+        "\ufeffDate": "2014-11-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "1170": {
+        "\ufeffDate": "2014-11-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "1171": {
+        "\ufeffDate": "2014-11-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1172": {
+        "\ufeffDate": "2014-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1173": {
+        "\ufeffDate": "2014-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1174": {
+        "\ufeffDate": "2014-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1175": {
+        "\ufeffDate": "2014-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1176": {
+        "\ufeffDate": "2014-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1177": {
+        "\ufeffDate": "2014-12-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1178": {
+        "\ufeffDate": "2014-12-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1179": {
+        "\ufeffDate": "2014-12-12",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1180": {
+        "\ufeffDate": "2015-01-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1181": {
+        "\ufeffDate": "2015-01-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1182": {
+        "\ufeffDate": "2015-01-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1183": {
+        "\ufeffDate": "2015-01-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1184": {
+        "\ufeffDate": "2015-01-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1185": {
+        "\ufeffDate": "2015-01-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1186": {
+        "\ufeffDate": "2015-01-14",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1187": {
+        "\ufeffDate": "2015-01-14",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1188": {
+        "\ufeffDate": "2015-01-14",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "16"
+    },
+    "1189": {
+        "\ufeffDate": "2015-02-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1190": {
+        "\ufeffDate": "2015-02-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1191": {
+        "\ufeffDate": "2015-02-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "39"
+    },
+    "1192": {
+        "\ufeffDate": "2015-02-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1193": {
+        "\ufeffDate": "2015-02-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1194": {
+        "\ufeffDate": "2015-02-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1195": {
+        "\ufeffDate": "2015-03-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1196": {
+        "\ufeffDate": "2015-03-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1197": {
+        "\ufeffDate": "2015-03-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "1198": {
+        "\ufeffDate": "2015-03-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "36"
+    },
+    "1199": {
+        "\ufeffDate": "2015-03-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1200": {
+        "\ufeffDate": "2015-03-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1201": {
+        "\ufeffDate": "2015-03-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "15"
+    },
+    "1202": {
+        "\ufeffDate": "2015-04-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "1203": {
+        "\ufeffDate": "2015-04-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1204": {
+        "\ufeffDate": "2015-04-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1205": {
+        "\ufeffDate": "2015-04-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "1206": {
+        "\ufeffDate": "2015-04-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1207": {
+        "\ufeffDate": "2015-04-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1208": {
+        "\ufeffDate": "2015-05-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "1209": {
+        "\ufeffDate": "2015-05-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1210": {
+        "\ufeffDate": "2015-05-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "31"
+    },
+    "1211": {
+        "\ufeffDate": "2015-05-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "52"
+    },
+    "1212": {
+        "\ufeffDate": "2015-05-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "25"
+    },
+    "1213": {
+        "\ufeffDate": "2015-05-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "1214": {
+        "\ufeffDate": "2015-05-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1215": {
+        "\ufeffDate": "2015-06-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "13"
+    },
+    "1216": {
+        "\ufeffDate": "2015-06-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1217": {
+        "\ufeffDate": "2015-06-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1218": {
+        "\ufeffDate": "2015-06-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "1219": {
+        "\ufeffDate": "2015-06-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1220": {
+        "\ufeffDate": "2015-06-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "34"
+    },
+    "1221": {
+        "\ufeffDate": "2015-07-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1222": {
+        "\ufeffDate": "2015-07-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1223": {
+        "\ufeffDate": "2015-07-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "28"
+    },
+    "1224": {
+        "\ufeffDate": "2015-07-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1225": {
+        "\ufeffDate": "2015-07-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "33"
+    },
+    "1226": {
+        "\ufeffDate": "2015-07-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "45"
+    },
+    "1227": {
+        "\ufeffDate": "2015-07-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "56"
+    },
+    "1228": {
+        "\ufeffDate": "2015-07-13",
+        "Centre_Name": "KOLKATA",
+        "Commodity_Name": "Brinjal",
+        "Price": "30"
+    },
+    "1229": {
+        "\ufeffDate": "2015-09-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "1230": {
+        "\ufeffDate": "2015-09-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1231": {
+        "\ufeffDate": "2015-09-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1232": {
+        "\ufeffDate": "2015-09-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "27"
+    },
+    "1233": {
+        "\ufeffDate": "2015-09-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "1234": {
+        "\ufeffDate": "2015-10-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "23"
+    },
+    "1235": {
+        "\ufeffDate": "2015-10-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1236": {
+        "\ufeffDate": "2015-10-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "19"
+    },
+    "1237": {
+        "\ufeffDate": "2015-10-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1238": {
+        "\ufeffDate": "2015-10-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "29"
+    },
+    "1239": {
+        "\ufeffDate": "2015-10-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1240": {
+        "\ufeffDate": "2015-10-12",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "24"
+    },
+    "1241": {
+        "\ufeffDate": "2015-10-13",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "40"
+    },
+    "1242": {
+        "\ufeffDate": "2015-10-13",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "41"
+    },
+    "1243": {
+        "\ufeffDate": "2015-11-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "21"
+    },
+    "1244": {
+        "\ufeffDate": "2015-11-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1245": {
+        "\ufeffDate": "2015-11-12",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "17"
+    },
+    "1246": {
+        "\ufeffDate": "2015-12-08",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1247": {
+        "\ufeffDate": "2015-12-08",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    },
+    "1248": {
+        "\ufeffDate": "2015-12-09",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1249": {
+        "\ufeffDate": "2015-12-09",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "26"
+    },
+    "1250": {
+        "\ufeffDate": "2015-12-10",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "20"
+    },
+    "1251": {
+        "\ufeffDate": "2015-12-11",
+        "Centre_Name": "DELHI",
+        "Commodity_Name": "Brinjal",
+        "Price": "18"
+    },
+    "1252": {
+        "\ufeffDate": "2015-12-11",
+        "Centre_Name": "MUMBAI",
+        "Commodity_Name": "Brinjal",
+        "Price": "22"
+    }
+}

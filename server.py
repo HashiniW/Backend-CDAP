@@ -166,16 +166,16 @@ def create_json_tomato():
         #read each object in JSON file
         json_obj = tomato[str(i)]
         #Filter data for tomato and select records for centre Pettah, Dambulla, Jaffna
-        if json_obj["commodity_name"] == "tomato" and (json_obj["centre_name"] == "DELHI" or json_obj["centre_name"] == "KOLKATA" or json_obj["centre_name"] == "MUMBAI"):
-            json_obj["commodity_name"] = 'tomato'
+        if json_obj["Commodity_Name"] == "tomato" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'tomato'
 
             #Modify centre names
-            if json_obj["centre_name"] == "DELHI":
-                json_obj["centre_name"] = "Pettah"
-            elif json_obj["centre_name"] == "KOLKATA":
-                json_obj["centre_namem"] = "Dambulla"
-            elif json_obj["centre_name"] == "MUMBAI":
-                json_obj["centre_name"] = "Jaffna"
+            if json_obj["Centre_Name"] == "DELHI":
+                json_obj["Centre_Name"] = "Pettah"
+            elif json_obj["Centre_Name"] == "KOLKATA":
+                json_obj["Centre_Namem"] = "Dambulla"
+            elif json_obj["Centre_Name"] == "MUMBAI":
+                json_obj["Centre_Name"] = "Jaffna"
 
             #Append modified record to final object
             final_json.append(json_obj)
@@ -200,16 +200,16 @@ def create_json_potato():
     #create JSON object for each record
     for i in range(len(potato)):
         json_obj = potato[str(i)]
-        if json_obj["commodity_name"] == "potato" and (json_obj["centre_name"] == "DELHI" or json_obj["centre_name"] == "KOLKATA" or json_obj["centre_name"] == "MUMBAI"):
-            json_obj["commodity_name"] = 'potato'
+        if json_obj["Commodity_Name"] == "potato" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'potato'
 
             #Modify centre names
-            if json_obj["centre_name"] == "DELHI":
-                json_obj["centre_name"] = "Pettah"
-            elif json_obj["centre_name"] == "KOLKATA":
-                json_obj["centre_namem"] = "Dambulla"
-            elif json_obj["centre_name"] == "MUMBAI":
-                json_obj["centre_name"] = "Jaffna"
+            if json_obj["Centre_Name"] == "DELHI":
+                json_obj["Centre_Name"] = "Pettah"
+            elif json_obj["Centre_Name"] == "KOLKATA":
+                json_obj["Centre_Namem"] = "Dambulla"
+            elif json_obj["Centre_Name"] == "MUMBAI":
+                json_obj["Centre_Name"] = "Jaffna"
 
             final_json.append(json_obj)
 
@@ -233,16 +233,16 @@ def create_json_store3():
     #create JSON object for each record
     for i in range(len(onion)):
         json_obj = onion[str(i)]
-        if json_obj["commodity_name"] == "onion" and (json_obj["centre_name"] == "DELHI" or json_obj["centre_name"] == "KOLKATA" or json_obj["centre_name"] == "MUMBAI"):
-            json_obj["commodity_name"] = 'onion'
+        if json_obj["Commodity_Name"] == "onion" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'onion'
 
             #Modify centre names
-            if json_obj["centre_name"] == "DELHI":
-                json_obj["centre_name"] = "Pettah"
-            elif json_obj["centre_name"] == "KOLKATA":
-                json_obj["centre_namem"] = "Dambulla"
-            elif json_obj["centre_name"] == "MUMBAI":
-                json_obj["centre_name"] = "Jaffna"
+            if json_obj["Centre_Name"] == "DELHI":
+                json_obj["Centre_Name"] = "Pettah"
+            elif json_obj["Centre_Name"] == "KOLKATA":
+                json_obj["Centre_Namem"] = "Dambulla"
+            elif json_obj["Centre_Name"] == "MUMBAI":
+                json_obj["Centre_Name"] = "Jaffna"
 
             final_json.append(json_obj)
 
@@ -266,16 +266,16 @@ def create_json_cabbage():
     #create JSON object for each record
     for i in range(len(cabbage)):
         json_obj = cabbage[str(i)]
-        if json_obj["commodity_name"] == "cabbage" and (json_obj["centre_name"] == "DELHI" or json_obj["centre_name"] == "KOLKATA" or json_obj["centre_name"] == "MUMBAI"):
-            json_obj["commodity_name"] = 'cabbage'
+        if json_obj["Commodity_Name"] == "cabbage" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'cabbage'
 
             #Modify centre names
-            if json_obj["centre_name"] == "DELHI":
-                json_obj["centre_name"] = "Pettah"
-            elif json_obj["centre_name"] == "KOLKATA":
-                json_obj["centre_namem"] = "Dambulla"
-            elif json_obj["centre_name"] == "MUMBAI":
-                json_obj["centre_name"] = "Jaffna"
+            if json_obj["Centre_Name"] == "DELHI":
+                json_obj["Centre_Name"] = "Pettah"
+            elif json_obj["Centre_Name"] == "KOLKATA":
+                json_obj["Centre_Namem"] = "Dambulla"
+            elif json_obj["Centre_Name"] == "MUMBAI":
+                json_obj["Centre_Name"] = "Jaffna"
 
             final_json.append(json_obj)
 
@@ -299,16 +299,16 @@ def create_json_brinjal():
     #create JSON object for each record
     for i in range(len(brinjal)):
         json_obj = brinjal[str(i)]
-        if json_obj["commodity_name"] == "brinjal" and (json_obj["centre_name"] == "DELHI" or json_obj["centre_name"] == "KOLKATA" or json_obj["centre_name"] == "MUMBAI"):
-            json_obj["commodity_name"] = 'brinjal'
+        if json_obj["Commodity_Name"] == "brinjal" and (json_obj["Centre_Name"] == "DELHI" or json_obj["Centre_Name"] == "KOLKATA" or json_obj["Centre_Name"] == "MUMBAI"):
+            json_obj["Commodity_Name"] = 'brinjal'
             
             #Modify centre names
-            if json_obj["centre_name"] == "DELHI":
-                json_obj["centre_name"] = "Pettah"
-            elif json_obj["centre_name"] == "KOLKATA":
-                json_obj["centre_namem"] = "Dambulla"
-            elif json_obj["centre_name"] == "MUMBAI":
-                json_obj["centre_name"] = "Jaffna"
+            if json_obj["Centre_Name"] == "DELHI":
+                json_obj["Centre_Name"] = "Pettah"
+            elif json_obj["Centre_Name"] == "KOLKATA":
+                json_obj["Centre_Namem"] = "Dambulla"
+            elif json_obj["Centre_Name"] == "MUMBAI":
+                json_obj["Centre_Name"] = "Jaffna"
 
             final_json.append(json_obj)
 
